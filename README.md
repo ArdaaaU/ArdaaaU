@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolyo-sand-two.vercel.app" target="_blank">
+  <a href="https://ardautancak.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=B794F4&labelColor=1A102F" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/arda-utancak-b67753432/" target="_blank">
@@ -345,7 +345,7 @@ developer:
     <img src="https://img.shields.io/badge/GitHub-Follow%20Open%20Source%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   &nbsp;
-  <a href="https://portfolyo-sand-two.vercel.app" target="_blank">
+  <a href="https://ardautancak.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-Visit%20Showcase%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>

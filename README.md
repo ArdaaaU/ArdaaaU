@@ -143,7 +143,7 @@ A minimalist, high-efficiency web dashboard tailored for university dormitory st
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | HTML5, CSS3, Modern JavaScript, Bootstrap, Figma UI/UX |
-| **Live Demo** | [kyk-yemek.vercel.app](https://kyk-yemek.vercel.app) |
+| **Live Demo** | [kykyemek.vercel.app](https://kykyemek.vercel.app) |
 | **Repository** | [ArdaaaU/KykYemek](https://github.com/ArdaaaU/KykYemek) |
 | **Optimization** | Ultra-lightweight CSS/JS footprint designed to load instantaneously even on heavily congested campus Wi-Fi networks |
 | **UI/UX Focus** | Mobile-First one-screen glance architecture replacing convoluted tab systems with clean, ergonomic cards |

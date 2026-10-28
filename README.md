@@ -175,7 +175,7 @@ A sleek digital storefront and brand identity design crafted for a conceptual hi
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | HTML5, CSS3 (CSS Grid & Flexbox), Bootstrap, Figma Branding |
-| **Live Demo** | [coremax.vercel.app](https://coremax.vercel.app) |
+| **Live Demo** | [coremaxtech.vercel.app](https://coremaxtech.vercel.app) |
 | **Repository** | [ArdaaaU/Coremax](https://github.com/ArdaaaU/Coremax) |
 | **Branding** | Sharp geometric logo design, monochrome high-contrast aesthetic, custom hardware catalog grid layout |
 </details>

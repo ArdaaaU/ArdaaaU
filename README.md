@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:12072B,30:2E0854,65:4B0082,100:6A0DAD&height=220&section=header&text=ARDA%20UTANCAK&fontSize=42&fontColor=F8F9FA&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Front-End+Software+Developer;Architecting+Modern+%26+Interactive+Web+Apps;Engineering+Realtime+Solutions+with+Supabase+%26+Modern+JS;10%2B+Production-Grade+Projects+Deployed+on+Vercel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B794F4&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Front-End+Software+Developer;Interactive+Web+Applications+%26+UI%2FUX;Realtime+Solutions+with+Supabase+%26+Modern+JS;10%2B+Production-Grade+Projects+Deployed+on+Vercel" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -39,11 +39,11 @@
 
 ### 01. About Me
 
-Performance-driven **Front-End & Web Applications Developer** with a passion for designing scalable, responsive, and visually compelling web interfaces. Experienced in modern JavaScript (ES6+), real-time architectures powered by Supabase WebSockets, interactive graphics via HTML5 Canvas 2D & Three.js (WebGL), and accessible WCAG-compliant design systems.
+Performance-focused **Front-End & Web Applications Developer** with a passion for designing scalable, responsive, and visually compelling web interfaces. Experienced in modern JavaScript (ES6+), real-time architectures powered by Supabase WebSockets, interactive graphics via HTML5 Canvas 2D & Three.js (WebGL), and accessible WCAG-compliant design systems.
 
-Rooted in a strong vocational software engineering education (**Çiğli Borsa İstanbul Vocational & Technical High School**) and currently pursuing specialized studies in **Web Design & Coding** at **Manisa Celal Bayar University**, backed by hands-on enterprise IT infrastructure and Help Desk experience at **Uniteks**.
+Rooted in a strong software engineering foundation starting from **Çiğli Borsa İstanbul Vocational & Technical High School** (where I built core algorithms and Object-Oriented Programming (OOP) solutions using **C# in Visual Studio**, along with **Java** and **MySQL** database modeling), and currently advancing in **Web Design & Coding** at **Manisa Celal Bayar University**. Supported by enterprise IT infrastructure, Network administration, and Help Desk experience at **Uniteks**.
 
-- **Core Disciplines**: Modern Front-End Engineering, Realtime State Synchronization, Canvas & WebGL Visualizations, UI/UX Design Prototyping.
+- **Core Disciplines**: Modern Front-End Engineering, Realtime State Synchronization, Canvas & WebGL Visualizations, Object-Oriented Programming (OOP), Network & Proxy (3X-UI) Management.
 - **Engineering Principles**: Clean Architecture, Zero-Dependency Optimization, Mobile-First Responsiveness, Sub-second Asset Loading, High Observability.
 - **Open To**: Junior/Mid Front-End Engineering Roles, Web Development Opportunities, High-Impact Open Source Collaborations.
 
@@ -55,7 +55,7 @@ Rooted in a strong vocational software engineering education (**Çiğli Borsa İ
 
 #### Core Programming & Scripting Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,html,css" alt="Languages" />
 </a>
 
 #### Frontend Engineering, Graphics & UI
@@ -65,13 +65,19 @@ Rooted in a strong vocational software engineering education (**Çiğli Borsa İ
 
 #### Backend, BaaS & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,python,flask" alt="Backend & Storage" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,python,flask" alt="Backend & Storage" />
 </a>
 
-#### Tooling, Version Control & Platforms
+#### Network, Systems & Version Control
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,windows,linux" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,windows,linux" alt="Tools & Platforms" />
 </a>
+
+<p align="center" style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20(C%23%20OOP)-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio C#" />
+  <img src="https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20DHCP%20%7C%20DNS-4B0082?style=flat-square&logo=cisco&logoColor=white" alt="Network" />
+  <img src="https://img.shields.io/badge/Panel-3X--UI%20(VPN%20%2F%20Proxy)-7C3AED?style=flat-square&logo=wireguard&logoColor=white" alt="3X-UI" />
+</p>
 
 </div>
 
@@ -83,9 +89,10 @@ Rooted in a strong vocational software engineering education (**Çiğli Borsa İ
 | :--- | :---: | :--- |
 | **Front-End Architecture** | `Production` | Modern Vanilla JavaScript (ES6+), HTML5 Semantic markup, Modern CSS3 (Grid, Flexbox, Glassmorphism, CSS Variables), Mobile-First Responsive layouts. |
 | **Realtime Web & BaaS** | `Production` | Supabase Realtime WebSockets, PostgreSQL database schema modeling, Row Level Security (RLS) policies, RESTful client integration. |
-| **Graphics & Simulation** | `Advanced` | HTML5 Canvas 2D rasterization, Bézier curve cloth mechanics, Web Audio API procedural sound synthesis, Three.js 3D GLTF/GLB models. |
-| **UI/UX & Prototyping** | `Advanced` | Figma wireframing & high-fidelity prototyping, WCAG accessibility compliance, Design Tokens, Micro-interactions. |
-| **IT & Systems Infrastructure** | `Experienced` | Enterprise IT Help Desk, hardware diagnostics, network peripheral configuration, OS imaging, license management (Uniteks IT). |
+| **OOP & Systems Programming** | `Proficient` | Object-Oriented Programming (OOP) with **C# (Visual Studio)** and **Java** fundamentals; class architectures, algorithmic problem solving. |
+| **Databases & Data Modeling** | `Proficient` | Supabase (PostgreSQL), **MySQL** relational database queries and modeling, SQLite persistence. |
+| **Graphics & Simulation** | `Advanced` | HTML5 Canvas 2D rasterization, Bézier curve cloth mechanics, Web Audio API procedural sound generation, Three.js 3D GLTF/GLB models. |
+| **Network & Infrastructure** | `Experienced` | Enterprise IT Help Desk, Network configuration (TCP/IP, DHCP, DNS), **3X-UI** VPN / proxy panel deployment and administration, hardware diagnostics (Uniteks IT). |
 
 ---
 
@@ -232,32 +239,48 @@ Assisted enterprise IT infrastructure, technical support operations, and worksta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArdaaaU&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=B794F4&icon_color=7C3AED&text_color=E2E8F0&border_color=2E0854&hide_border=false" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdaaaU&theme=tokyonight&background=0D1117&ring=7C3AED&fire=B794F4&currStreakLabel=B794F4&border=2E0854&stroke=2E0854" width="48%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArdaaaU&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=B794F4&icon_color=7C3AED&text_color=E2E8F0&border_color=2E0854" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=ArdaaaU&theme=tokyonight&background=0D1117&ring=7C3AED&fire=B794F4&currStreakLabel=B794F4&border=2E0854&stroke=2E0854" width="48%" alt="Streak Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaaaU&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=B794F4&text_color=E2E8F0&border_color=2E0854&hide_border=false" width="55%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaaaU&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=B794F4&text_color=E2E8F0&border_color=2E0854" width="55%" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 07. GitHub Trophies
+### 07. Developer Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArdaaaU&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" width="100%" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Repositories-10%2B_Projects-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Production_Deploys-Live_on_Vercel-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deploys" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Architecture-Realtime_Supabase-5B21B6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-3X--UI_%7C_TCP%2FIP-371B58?style=for-the-badge&logo=wireguard&logoColor=white" alt="Network & 3X-UI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP_Foundations-C%23_%26_Java-2E0854?style=for-the-badge&logo=csharp&logoColor=white" alt="C# and Java" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/UI%2FUX-WCAG_Accessible_Design-1E1B4B?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+</p>
 
 </div>
 
 ---
 
-### 08. Contribution Activity
+### 08. Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArdaaaU&theme=react-dark&bg_color=0D1117&color=B794F4&line=7C3AED&point=E9D5FF&area=true&hide_border=false&border_color=2E0854" width="100%" alt="Activity Graph" />
+<a href="https://github.com/ArdaaaU">
+  <img src="https://ghchart.rshah.org/7C3AED/ArdaaaU" width="100%" alt="Arda's GitHub Contribution Activity" />
+</a>
 
 </div>
 
@@ -268,9 +291,9 @@ Assisted enterprise IT infrastructure, technical support operations, and worksta
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdaaaU/ArdaaaU/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdaaaU/ArdaaaU/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ArdaaaU/ArdaaaU/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="assets/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -294,8 +317,8 @@ developer:
       - "Realtime collaborative web platforms with Supabase WebSockets"
       - "High-performance Canvas 2D simulation mechanics"
     exploring:
-      - "Full-stack serverless architectures on Vercel"
-      - "WCAG accessibility and modern micro-interaction patterns"
+      - "Network optimization, 3X-UI proxy/VPN orchestration"
+      - "Relational database modeling with MySQL and PostgreSQL"
     open_to:
       - "Front-End Developer & Web Engineering Roles"
       - "Innovative Web App & Open-Source Projects"

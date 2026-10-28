@@ -107,7 +107,7 @@ A full-stack, mobile-responsive football tournament management fabric featuring 
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | Vanilla JavaScript (ES6+), Supabase Realtime, PostgreSQL, Modern CSS3 Glassmorphism |
-| **Live Demo** | [turnuva-agac.vercel.app](https://turnuva-agac.vercel.app) |
+| **Live Demo** | [turnuvaagac.vercel.app](https://turnuvaagac.vercel.app) |
 | **Repository** | [ArdaaaU/Turnuva-A-ac-](https://github.com/ArdaaaU/Turnuva-A-ac-) |
 | **Key Features** | 5-team double-stage bracket (Qualifiers, Semifinals, Grand Final), 34-player comprehensive top scorer board, sticky table headers |
 | **Realtime Sync** | Supabase WebSockets syncing match scores, goal updates, and instant standings across all client devices without reload |
@@ -125,7 +125,7 @@ A zero-dependency mathematical physics simulation and cinematic ASCII rasterizer
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | HTML5 Canvas 2D, Pure JavaScript (ES6+), Web Audio API, TypedArrays (Uint32Array) |
-| **Live Demo** | [ardaaau.github.io/ascii-knight/](https://ardaaau.github.io/ascii-knight/) |
+| **Live Demo** | [ascii-knight.vercel.app](https://ascii-knight.vercel.app) • [GitHub Pages](https://ardaaau.github.io/ascii-knight/) |
 | **Repository** | [ArdaaaU/ascii-knight](https://github.com/ArdaaaU/ascii-knight) |
 | **Physics** | Dual-frequency Bézier harmonic wave cloth physics ($w_1, w_2$) with dynamic trailing thread particle detachment |
 | **Audio** | Procedural pink noise wind synthesizer, resonant bandpass filters, and LFO modulations generated via Web Audio API |
@@ -175,7 +175,7 @@ A sleek digital storefront and brand identity design crafted for a conceptual hi
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | HTML5, CSS3 (CSS Grid & Flexbox), Bootstrap, Figma Branding |
-| **Live Demo** | [coremax-smoky.vercel.app](https://coremax-smoky.vercel.app) |
+| **Live Demo** | [coremax.vercel.app](https://coremax.vercel.app) |
 | **Repository** | [ArdaaaU/Coremax](https://github.com/ArdaaaU/Coremax) |
 | **Branding** | Sharp geometric logo design, monochrome high-contrast aesthetic, custom hardware catalog grid layout |
 </details>

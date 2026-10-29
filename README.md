@@ -125,7 +125,7 @@ A zero-dependency mathematical physics simulation and cinematic ASCII rasterizer
 | Metric | Specification |
 | :--- | :--- |
 | **Tech Stack** | HTML5 Canvas 2D, Pure JavaScript (ES6+), Web Audio API, TypedArrays (Uint32Array) |
-| **Live Demo** | [ascii-knight.vercel.app](https://ascii-knight.vercel.app) • [GitHub Pages](https://ardaaau.github.io/ascii-knight/) |
+| **Live Demo** | [https://ardaaau.github.io/ascii-knight/](https://ardaaau.github.io/ascii-knight/) |
 | **Repository** | [ArdaaaU/ascii-knight](https://github.com/ArdaaaU/ascii-knight) |
 | **Physics** | Dual-frequency Bézier harmonic wave cloth physics ($w_1, w_2$) with dynamic trailing thread particle detachment |
 | **Audio** | Procedural pink noise wind synthesizer, resonant bandpass filters, and LFO modulations generated via Web Audio API |

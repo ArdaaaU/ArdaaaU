@@ -43,7 +43,7 @@ Performance-focused **Front-End & Web Applications Developer** with a passion fo
 
 Rooted in a strong software engineering foundation starting from **Çiğli Borsa İstanbul Vocational & Technical High School** (where I built core algorithms and Object-Oriented Programming (OOP) solutions using **C# in Visual Studio**, along with **Java** and **MySQL** database modeling), and currently advancing in **Web Design & Coding** at **Manisa Celal Bayar University**. Supported by enterprise IT infrastructure, Network administration, and Help Desk experience at **Uniteks**.
 
-- **Core Disciplines**: Modern Front-End Engineering, Realtime State Synchronization, Canvas & WebGL Visualizations, Object-Oriented Programming (OOP), Network & Proxy (3X-UI) Management.
+- **Core Disciplines**: Modern Front-End Engineering, Realtime State Synchronization, Canvas & WebGL Visualizations, Object-Oriented Programming (OOP), Network Infrastructure & Administration.
 - **Engineering Principles**: Clean Architecture, Zero-Dependency Optimization, Mobile-First Responsiveness, Sub-second Asset Loading, High Observability.
 - **Open To**: Junior/Mid Front-End Engineering Roles, Web Development Opportunities, High-Impact Open Source Collaborations.
 
@@ -76,7 +76,6 @@ Rooted in a strong software engineering foundation starting from **Çiğli Borsa
 <p align="center" style="margin-top: 8px;">
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20(C%23%20OOP)-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio C#" />
   <img src="https://img.shields.io/badge/Network-TCP%2FIP%20%7C%20DHCP%20%7C%20DNS-4B0082?style=flat-square&logo=cisco&logoColor=white" alt="Network" />
-  <img src="https://img.shields.io/badge/Panel-3X--UI%20(VPN%20%2F%20Proxy)-7C3AED?style=flat-square&logo=wireguard&logoColor=white" alt="3X-UI" />
 </p>
 
 </div>
@@ -92,7 +91,7 @@ Rooted in a strong software engineering foundation starting from **Çiğli Borsa
 | **OOP & Systems Programming** | `Proficient` | Object-Oriented Programming (OOP) with **C# (Visual Studio)** and **Java** fundamentals; class architectures, algorithmic problem solving. |
 | **Databases & Data Modeling** | `Proficient` | Supabase (PostgreSQL), **MySQL** relational database queries and modeling, SQLite persistence. |
 | **Graphics & Simulation** | `Advanced` | HTML5 Canvas 2D rasterization, Bézier curve cloth mechanics, Web Audio API procedural sound generation, Three.js 3D GLTF/GLB models. |
-| **Network & Infrastructure** | `Experienced` | Enterprise IT Help Desk, Network configuration (TCP/IP, DHCP, DNS), **3X-UI** VPN / proxy panel deployment and administration, hardware diagnostics (Uniteks IT). |
+| **Network & Infrastructure** | `Experienced` | Enterprise IT Help Desk, Network configuration (TCP/IP, DHCP, DNS), hardware diagnostics (Uniteks IT). |
 
 ---
 
@@ -263,7 +262,7 @@ Assisted enterprise IT infrastructure, technical support operations, and worksta
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Networking-3X--UI_%7C_TCP%2FIP-371B58?style=for-the-badge&logo=wireguard&logoColor=white" alt="Network & 3X-UI" />
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP_%7C_DHCP-371B58?style=for-the-badge&logo=wireguard&logoColor=white" alt="Network" />
   &nbsp;
   <img src="https://img.shields.io/badge/OOP_Foundations-C%23_%26_Java-2E0854?style=for-the-badge&logo=csharp&logoColor=white" alt="C# and Java" />
   &nbsp;
@@ -317,7 +316,7 @@ developer:
       - "Realtime collaborative web platforms with Supabase WebSockets"
       - "High-performance Canvas 2D simulation mechanics"
     exploring:
-      - "Network optimization, 3X-UI proxy/VPN orchestration"
+      - "Network configuration (TCP/IP, DHCP, DNS) & IT Help Desk"
       - "Relational database modeling with MySQL and PostgreSQL"
     open_to:
       - "Front-End Developer & Web Engineering Roles"
